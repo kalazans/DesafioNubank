@@ -5,4 +5,5 @@
 <p>Validações sao feitas e erros são tratados sobre essas validacoes</p>
 <p>Olhem o controller, tem poucos metódos, mas tudo funcionado certo</p>
 <p>Esse projeto foi focado em fortificar  a base de construção de uma ApiRest</p>
+<p> video no youtube resolvendo o desafio <a href="https://www.youtube.com/watch?v=xSpAN2SZdM0">video</a>, ta sem porque esqueci de ligar o microfone</p>
 
